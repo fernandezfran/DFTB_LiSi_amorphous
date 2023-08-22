@@ -10,6 +10,8 @@ This is a data repository to support the main work
 A preprint of this work can be found at 
 [arXiv:2305.11006](https://arxiv.org/abs/2305.11006).
 
+Cite the dataset: [![DOI](https://zenodo.org/badge/681853337.svg)](https://zenodo.org/badge/latestdoi/681853337)
+
 
 # Content
 
