@@ -1,0 +1,11 @@
+MD step: 0
+Lattice vectors (A)
+          0.13806274E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.13806274E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.13806274E+02
+Volume:                              0.177593E+05 au^3   0.263166E+04 A^3
+Pressure:                            0.871449E-06 au     0.256389E+08 Pa
+Potential Energy:                  -95.5322756388 H        -2599.5655 eV
+MD Kinetic Energy:                   0.2231868829 H            6.0732 eV
+Total MD Energy:                   -95.3090887559 H        -2593.4923 eV
+MD Temperature:                      0.0009357941 au         295.5000 K

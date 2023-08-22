@@ -1,0 +1,1100 @@
+MD step: 6700
+Lattice vectors (A)
+          0.17133186E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17133186E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17133186E+02
+Volume:                              0.339399E+05 au^3   0.502938E+04 A^3
+Pressure:                            0.239960E-05 au     0.705985E+08 Pa
+Potential Energy:                 -116.7890074994 H        -3177.9906 eV
+MD Kinetic Energy:                   0.4330228525 H           11.7832 eV
+Total MD Energy:                  -116.3559846468 H        -3166.2074 eV
+MD Temperature:                      0.0009527456 au         300.8529 K
+MD step: 9000
+Lattice vectors (A)
+          0.17133521E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17133521E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17133521E+02
+Volume:                              0.339419E+05 au^3   0.502967E+04 A^3
+Pressure:                            0.438922E-05 au     0.129135E+09 Pa
+Potential Energy:                 -116.8115233048 H        -3178.6033 eV
+MD Kinetic Energy:                   0.4366263975 H           11.8812 eV
+Total MD Energy:                  -116.3748969073 H        -3166.7221 eV
+MD Temperature:                      0.0009606741 au         303.3565 K
+MD step: 16900
+Lattice vectors (A)
+          0.17134535E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134535E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134535E+02
+Volume:                              0.339479E+05 au^3   0.503057E+04 A^3
+Pressure:                            0.712094E-05 au     0.209505E+09 Pa
+Potential Energy:                 -116.7934330970 H        -3178.1110 eV
+MD Kinetic Energy:                   0.4255997030 H           11.5812 eV
+Total MD Energy:                  -116.3678333940 H        -3166.5299 eV
+MD Temperature:                      0.0009364130 au         295.6955 K
+MD step: 19000
+Lattice vectors (A)
+          0.17134271E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134271E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134271E+02
+Volume:                              0.339464E+05 au^3   0.503033E+04 A^3
+Pressure:                            0.612362E-06 au     0.180163E+08 Pa
+Potential Energy:                 -116.8124957657 H        -3178.6297 eV
+MD Kinetic Energy:                   0.4322274381 H           11.7615 eV
+Total MD Energy:                  -116.3802683276 H        -3166.8682 eV
+MD Temperature:                      0.0009509955 au         300.3003 K
+MD step: 19500
+Lattice vectors (A)
+          0.17134179E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134179E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134179E+02
+Volume:                              0.339458E+05 au^3   0.503025E+04 A^3
+Pressure:                            0.386538E-06 au     0.113723E+08 Pa
+Potential Energy:                 -116.8347710297 H        -3179.2359 eV
+MD Kinetic Energy:                   0.4334103615 H           11.7937 eV
+Total MD Energy:                  -116.4013606682 H        -3167.4422 eV
+MD Temperature:                      0.0009535982 au         301.1221 K
+MD step: 22600
+Lattice vectors (A)
+          0.17134111E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134111E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134111E+02
+Volume:                              0.339454E+05 au^3   0.503019E+04 A^3
+Pressure:                            0.116878E-05 au     0.343867E+08 Pa
+Potential Energy:                 -116.8232631442 H        -3178.9227 eV
+MD Kinetic Energy:                   0.4284760544 H           11.6594 eV
+Total MD Energy:                  -116.3947870898 H        -3167.2633 eV
+MD Temperature:                      0.0009427416 au         297.6939 K
+MD step: 26800
+Lattice vectors (A)
+          0.17134632E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134632E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134632E+02
+Volume:                              0.339485E+05 au^3   0.503065E+04 A^3
+Pressure:                           -0.282488E-05 au    -0.831108E+08 Pa
+Potential Energy:                 -116.8231476083 H        -3178.9196 eV
+MD Kinetic Energy:                   0.4435306515 H           12.0691 eV
+Total MD Energy:                  -116.3796169568 H        -3166.8505 eV
+MD Temperature:                      0.0009758650 au         308.1534 K
+MD step: 28100
+Lattice vectors (A)
+          0.17134678E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134678E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134678E+02
+Volume:                              0.339488E+05 au^3   0.503069E+04 A^3
+Pressure:                            0.200852E-06 au     0.590926E+07 Pa
+Potential Energy:                 -116.8059777300 H        -3178.4524 eV
+MD Kinetic Energy:                   0.4375382346 H           11.9060 eV
+Total MD Energy:                  -116.3684394954 H        -3166.5464 eV
+MD Temperature:                      0.0009626804 au         303.9901 K
+MD step: 30500
+Lattice vectors (A)
+          0.17134795E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134795E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134795E+02
+Volume:                              0.339495E+05 au^3   0.503080E+04 A^3
+Pressure:                           -0.107315E-04 au    -0.315731E+09 Pa
+Potential Energy:                 -116.8584530142 H        -3179.8803 eV
+MD Kinetic Energy:                   0.4356994031 H           11.8560 eV
+Total MD Energy:                  -116.4227536111 H        -3168.0243 eV
+MD Temperature:                      0.0009586346 au         302.7125 K
+MD step: 32900
+Lattice vectors (A)
+          0.17134778E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134778E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134778E+02
+Volume:                              0.339494E+05 au^3   0.503078E+04 A^3
+Pressure:                           -0.206406E-05 au    -0.607267E+08 Pa
+Potential Energy:                 -116.8251375942 H        -3178.9737 eV
+MD Kinetic Energy:                   0.4391125363 H           11.9489 eV
+Total MD Energy:                  -116.3860250579 H        -3167.0249 eV
+MD Temperature:                      0.0009661442 au         305.0838 K
+MD step: 35900
+Lattice vectors (A)
+          0.17134775E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134775E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134775E+02
+Volume:                              0.339494E+05 au^3   0.503078E+04 A^3
+Pressure:                            0.236491E-05 au     0.695781E+08 Pa
+Potential Energy:                 -116.8293429339 H        -3179.0882 eV
+MD Kinetic Energy:                   0.4431878098 H           12.0598 eV
+Total MD Energy:                  -116.3861551241 H        -3167.0284 eV
+MD Temperature:                      0.0009751107 au         307.9152 K
+MD step: 37300
+Lattice vectors (A)
+          0.17134866E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134866E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134866E+02
+Volume:                              0.339499E+05 au^3   0.503086E+04 A^3
+Pressure:                           -0.500467E-05 au    -0.147242E+09 Pa
+Potential Energy:                 -116.8063207151 H        -3178.4617 eV
+MD Kinetic Energy:                   0.4344221732 H           11.8212 eV
+Total MD Energy:                  -116.3718985418 H        -3166.6405 eV
+MD Temperature:                      0.0009558244 au         301.8251 K
+MD step: 47100
+Lattice vectors (A)
+          0.17134875E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134875E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134875E+02
+Volume:                              0.339500E+05 au^3   0.503087E+04 A^3
+Pressure:                            0.978326E-07 au     0.287833E+07 Pa
+Potential Energy:                 -116.8159294619 H        -3178.7232 eV
+MD Kinetic Energy:                   0.4286833915 H           11.6651 eV
+Total MD Energy:                  -116.3872460704 H        -3167.0581 eV
+MD Temperature:                      0.0009431978 au         297.8379 K
+MD step: 47400
+Lattice vectors (A)
+          0.17134896E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134896E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134896E+02
+Volume:                              0.339501E+05 au^3   0.503089E+04 A^3
+Pressure:                           -0.348964E-05 au    -0.102669E+09 Pa
+Potential Energy:                 -116.8300687740 H        -3179.1079 eV
+MD Kinetic Energy:                   0.4432790632 H           12.0622 eV
+Total MD Energy:                  -116.3867897107 H        -3167.0457 eV
+MD Temperature:                      0.0009753115 au         307.9786 K
+MD step: 50600
+Lattice vectors (A)
+          0.17135050E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17135050E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17135050E+02
+Volume:                              0.339510E+05 au^3   0.503102E+04 A^3
+Pressure:                            0.242065E-05 au     0.712180E+08 Pa
+Potential Energy:                 -116.8257097901 H        -3178.9893 eV
+MD Kinetic Energy:                   0.4320092902 H           11.7556 eV
+Total MD Energy:                  -116.3937004999 H        -3167.2337 eV
+MD Temperature:                      0.0009505155 au         300.1487 K
+MD step: 52800
+Lattice vectors (A)
+          0.17135001E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17135001E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17135001E+02
+Volume:                              0.339507E+05 au^3   0.503098E+04 A^3
+Pressure:                            0.433801E-05 au     0.127629E+09 Pa
+Potential Energy:                 -116.7941525914 H        -3178.1306 eV
+MD Kinetic Energy:                   0.4291225268 H           11.6770 eV
+Total MD Energy:                  -116.3650300647 H        -3166.4536 eV
+MD Temperature:                      0.0009441640 au         298.1430 K
+MD step: 55100
+Lattice vectors (A)
+          0.17135235E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17135235E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17135235E+02
+Volume:                              0.339521E+05 au^3   0.503118E+04 A^3
+Pressure:                           -0.157724E-05 au    -0.464039E+08 Pa
+Potential Energy:                 -116.7807897392 H        -3177.7670 eV
+MD Kinetic Energy:                   0.4193251710 H           11.4104 eV
+Total MD Energy:                  -116.3614645682 H        -3166.3566 eV
+MD Temperature:                      0.0009226076 au         291.3361 K
+MD step: 700
+Lattice vectors (A)
+          0.17137104E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17137104E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17137104E+02
+Volume:                              0.339632E+05 au^3   0.503283E+04 A^3
+Pressure:                            0.261195E-05 au     0.768462E+08 Pa
+Potential Energy:                 -116.7972969483 H        -3178.2162 eV
+MD Kinetic Energy:                   0.4366649154 H           11.8823 eV
+Total MD Energy:                  -116.3606320329 H        -3166.3339 eV
+MD Temperature:                      0.0009607589 au         303.3833 K
+MD step: 900
+Lattice vectors (A)
+          0.17137142E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17137142E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17137142E+02
+Volume:                              0.339634E+05 au^3   0.503286E+04 A^3
+Pressure:                            0.343072E-05 au     0.100935E+09 Pa
+Potential Energy:                 -116.8038888145 H        -3178.3955 eV
+MD Kinetic Energy:                   0.4318998790 H           11.7526 eV
+Total MD Energy:                  -116.3719889355 H        -3166.6429 eV
+MD Temperature:                      0.0009502748 au         300.0727 K
+MD step: 7400
+Lattice vectors (A)
+          0.17137695E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17137695E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17137695E+02
+Volume:                              0.339667E+05 au^3   0.503335E+04 A^3
+Pressure:                            0.333573E-05 au     0.981405E+08 Pa
+Potential Energy:                 -116.8423027580 H        -3179.4408 eV
+MD Kinetic Energy:                   0.4387708676 H           11.9396 eV
+Total MD Energy:                  -116.4035318904 H        -3167.5013 eV
+MD Temperature:                      0.0009653924 au         304.8465 K
+MD step: 7700
+Lattice vectors (A)
+          0.17137786E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17137786E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17137786E+02
+Volume:                              0.339673E+05 au^3   0.503343E+04 A^3
+Pressure:                            0.705475E-05 au     0.207558E+09 Pa
+Potential Energy:                 -116.8185552136 H        -3178.7946 eV
+MD Kinetic Energy:                   0.4375324570 H           11.9059 eV
+Total MD Energy:                  -116.3810227566 H        -3166.8888 eV
+MD Temperature:                      0.0009626677 au         303.9860 K
+MD step: 8300
+Lattice vectors (A)
+          0.17137950E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17137950E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17137950E+02
+Volume:                              0.339682E+05 au^3   0.503358E+04 A^3
+Pressure:                            0.858882E-05 au     0.252692E+09 Pa
+Potential Energy:                 -116.7606792874 H        -3177.2197 eV
+MD Kinetic Energy:                   0.4154810580 H           11.3058 eV
+Total MD Energy:                  -116.3451982295 H        -3165.9139 eV
+MD Temperature:                      0.0009141497 au         288.6653 K
+MD step: 9200
+Lattice vectors (A)
+          0.17138134E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17138134E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17138134E+02
+Volume:                              0.339693E+05 au^3   0.503374E+04 A^3
+Pressure:                            0.179230E-05 au     0.527313E+08 Pa
+Potential Energy:                 -116.8003603575 H        -3178.2995 eV
+MD Kinetic Energy:                   0.4219420058 H           11.4816 eV
+Total MD Energy:                  -116.3784183517 H        -3166.8179 eV
+MD Temperature:                      0.0009283652 au         293.1542 K
+MD step: 13200
+Lattice vectors (A)
+          0.17138468E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17138468E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17138468E+02
+Volume:                              0.339713E+05 au^3   0.503403E+04 A^3
+Pressure:                           -0.122764E-05 au    -0.361184E+08 Pa
+Potential Energy:                 -116.8188583410 H        -3178.8029 eV
+MD Kinetic Energy:                   0.4290584058 H           11.6753 eV
+Total MD Energy:                  -116.3897999351 H        -3167.1276 eV
+MD Temperature:                      0.0009440229 au         298.0985 K
+MD step: 17400
+Lattice vectors (A)
+          0.17138867E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17138867E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17138867E+02
+Volume:                              0.339737E+05 au^3   0.503438E+04 A^3
+Pressure:                           -0.478212E-05 au    -0.140695E+09 Pa
+Potential Energy:                 -116.8122377273 H        -3178.6227 eV
+MD Kinetic Energy:                   0.4382944812 H           11.9266 eV
+Total MD Energy:                  -116.3739432461 H        -3166.6961 eV
+MD Temperature:                      0.0009643443 au         304.5155 K
+MD step: 24800
+Lattice vectors (A)
+          0.17139016E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17139016E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17139016E+02
+Volume:                              0.339746E+05 au^3   0.503451E+04 A^3
+Pressure:                           -0.240785E-05 au    -0.708413E+08 Pa
+Potential Energy:                 -116.8071142912 H        -3178.4833 eV
+MD Kinetic Energy:                   0.4224828615 H           11.4963 eV
+Total MD Energy:                  -116.3846314297 H        -3166.9870 eV
+MD Temperature:                      0.0009295553 au         293.5300 K
+MD step: 33200
+Lattice vectors (A)
+          0.17138824E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17138824E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17138824E+02
+Volume:                              0.339734E+05 au^3   0.503435E+04 A^3
+Pressure:                            0.260026E-05 au     0.765022E+08 Pa
+Potential Energy:                 -116.8464277960 H        -3179.5531 eV
+MD Kinetic Energy:                   0.4396483364 H           11.9634 eV
+Total MD Energy:                  -116.4067794596 H        -3167.5896 eV
+MD Temperature:                      0.0009673231 au         305.4561 K
+MD step: 34800
+Lattice vectors (A)
+          0.17138769E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17138769E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17138769E+02
+Volume:                              0.339731E+05 au^3   0.503430E+04 A^3
+Pressure:                            0.263116E-05 au     0.774114E+08 Pa
+Potential Energy:                 -116.8352221403 H        -3179.2482 eV
+MD Kinetic Energy:                   0.4278998707 H           11.6437 eV
+Total MD Energy:                  -116.4073222696 H        -3167.6044 eV
+MD Temperature:                      0.0009414739 au         297.2936 K
+MD step: 38300
+Lattice vectors (A)
+          0.17139009E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17139009E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17139009E+02
+Volume:                              0.339745E+05 au^3   0.503451E+04 A^3
+Pressure:                           -0.970507E-06 au    -0.285533E+08 Pa
+Potential Energy:                 -116.8479974119 H        -3179.5958 eV
+MD Kinetic Energy:                   0.4375148252 H           11.9054 eV
+Total MD Energy:                  -116.4104825866 H        -3167.6904 eV
+MD Temperature:                      0.0009626289 au         303.9738 K
+MD step: 42100
+Lattice vectors (A)
+          0.17139141E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17139141E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17139141E+02
+Volume:                              0.339753E+05 au^3   0.503462E+04 A^3
+Pressure:                           -0.538123E-05 au    -0.158321E+09 Pa
+Potential Energy:                 -116.8156072690 H        -3178.7144 eV
+MD Kinetic Energy:                   0.4184150193 H           11.3857 eV
+Total MD Energy:                  -116.3971922496 H        -3167.3288 eV
+MD Temperature:                      0.0009206051 au         290.7038 K
+MD step: 46800
+Lattice vectors (A)
+          0.17139130E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17139130E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17139130E+02
+Volume:                              0.339753E+05 au^3   0.503462E+04 A^3
+Pressure:                            0.191614E-05 au     0.563746E+08 Pa
+Potential Energy:                 -116.8347987668 H        -3179.2366 eV
+MD Kinetic Energy:                   0.4307583503 H           11.7215 eV
+Total MD Energy:                  -116.4040404165 H        -3167.5151 eV
+MD Temperature:                      0.0009477631 au         299.2796 K
+MD step: 46900
+Lattice vectors (A)
+          0.17139149E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17139149E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17139149E+02
+Volume:                              0.339754E+05 au^3   0.503463E+04 A^3
+Pressure:                            0.624591E-05 au     0.183761E+09 Pa
+Potential Energy:                 -116.8371455690 H        -3179.3005 eV
+MD Kinetic Energy:                   0.4301540725 H           11.7051 eV
+Total MD Energy:                  -116.4069914965 H        -3167.5954 eV
+MD Temperature:                      0.0009464336 au         298.8597 K
+MD step: 50100
+Lattice vectors (A)
+          0.17139636E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17139636E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17139636E+02
+Volume:                              0.339783E+05 au^3   0.503506E+04 A^3
+Pressure:                            0.108845E-04 au     0.320232E+09 Pa
+Potential Energy:                 -116.8107877911 H        -3178.5833 eV
+MD Kinetic Energy:                   0.4257931073 H           11.5864 eV
+Total MD Energy:                  -116.3849946837 H        -3166.9968 eV
+MD Temperature:                      0.0009368385 au         295.8299 K
+MD step: 53600
+Lattice vectors (A)
+          0.17139674E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17139674E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17139674E+02
+Volume:                              0.339785E+05 au^3   0.503509E+04 A^3
+Pressure:                            0.369207E-05 au     0.108625E+09 Pa
+Potential Energy:                 -116.8405783114 H        -3179.3939 eV
+MD Kinetic Energy:                   0.4244604780 H           11.5502 eV
+Total MD Energy:                  -116.4161178335 H        -3167.8437 eV
+MD Temperature:                      0.0009339064 au         294.9040 K
+MD step: 9100
+Lattice vectors (A)
+          0.17141251E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17141251E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17141251E+02
+Volume:                              0.339879E+05 au^3   0.503649E+04 A^3
+Pressure:                            0.879303E-05 au     0.258700E+09 Pa
+Potential Energy:                 -116.8015557651 H        -3178.3320 eV
+MD Kinetic Energy:                   0.4363592877 H           11.8739 eV
+Total MD Energy:                  -116.3651964774 H        -3166.4581 eV
+MD Temperature:                      0.0009600864 au         303.1710 K
+MD step: 15200
+Lattice vectors (A)
+          0.17142153E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17142153E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17142153E+02
+Volume:                              0.339932E+05 au^3   0.503728E+04 A^3
+Pressure:                            0.211227E-05 au     0.621453E+08 Pa
+Potential Energy:                 -116.8465876531 H        -3179.5574 eV
+MD Kinetic Energy:                   0.4393185916 H           11.9545 eV
+Total MD Energy:                  -116.4072690615 H        -3167.6030 eV
+MD Temperature:                      0.0009665976 au         305.2270 K
+MD step: 15300
+Lattice vectors (A)
+          0.17142178E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17142178E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17142178E+02
+Volume:                              0.339934E+05 au^3   0.503730E+04 A^3
+Pressure:                            0.239107E-05 au     0.703478E+08 Pa
+Potential Energy:                 -116.8084285285 H        -3178.5191 eV
+MD Kinetic Energy:                   0.4260967162 H           11.5947 eV
+Total MD Energy:                  -116.3823318124 H        -3166.9244 eV
+MD Temperature:                      0.0009375065 au         296.0408 K
+MD step: 17700
+Lattice vectors (A)
+          0.17142590E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17142590E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17142590E+02
+Volume:                              0.339958E+05 au^3   0.503767E+04 A^3
+Pressure:                           -0.747181E-06 au    -0.219828E+08 Pa
+Potential Energy:                 -116.8106390803 H        -3178.5792 eV
+MD Kinetic Energy:                   0.4301025797 H           11.7037 eV
+Total MD Energy:                  -116.3805365006 H        -3166.8755 eV
+MD Temperature:                      0.0009463203 au         298.8240 K
+MD step: 19700
+Lattice vectors (A)
+          0.17142591E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17142591E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17142591E+02
+Volume:                              0.339959E+05 au^3   0.503767E+04 A^3
+Pressure:                           -0.584973E-05 au    -0.172105E+09 Pa
+Potential Energy:                 -116.8473605532 H        -3179.5785 eV
+MD Kinetic Energy:                   0.4350775391 H           11.8391 eV
+Total MD Energy:                  -116.4122830141 H        -3167.7394 eV
+MD Temperature:                      0.0009572663 au         302.2804 K
+MD step: 27600
+Lattice vectors (A)
+          0.17142784E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17142784E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17142784E+02
+Volume:                              0.339970E+05 au^3   0.503784E+04 A^3
+Pressure:                           -0.450632E-06 au    -0.132581E+08 Pa
+Potential Energy:                 -116.7878991645 H        -3177.9604 eV
+MD Kinetic Energy:                   0.4301879535 H           11.7060 eV
+Total MD Energy:                  -116.3577112110 H        -3166.2544 eV
+MD Temperature:                      0.0009465081 au         298.8833 K
+MD step: 28400
+Lattice vectors (A)
+          0.17142800E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17142800E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17142800E+02
+Volume:                              0.339971E+05 au^3   0.503785E+04 A^3
+Pressure:                           -0.873139E-05 au    -0.256886E+09 Pa
+Potential Energy:                 -116.8418931073 H        -3179.4297 eV
+MD Kinetic Energy:                   0.4182875197 H           11.3822 eV
+Total MD Energy:                  -116.4236055876 H        -3168.0475 eV
+MD Temperature:                      0.0009203246 au         290.6152 K
+MD step: 28800
+Lattice vectors (A)
+          0.17142905E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17142905E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17142905E+02
+Volume:                              0.339977E+05 au^3   0.503794E+04 A^3
+Pressure:                            0.997386E-05 au     0.293441E+09 Pa
+Potential Energy:                 -116.8298335875 H        -3179.1015 eV
+MD Kinetic Energy:                   0.4268977215 H           11.6165 eV
+Total MD Energy:                  -116.4029358660 H        -3167.4850 eV
+MD Temperature:                      0.0009392689 au         296.5973 K
+MD step: 30000
+Lattice vectors (A)
+          0.17143039E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17143039E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17143039E+02
+Volume:                              0.339985E+05 au^3   0.503806E+04 A^3
+Pressure:                            0.820153E-06 au     0.241297E+08 Pa
+Potential Energy:                 -116.8023659177 H        -3178.3541 eV
+MD Kinetic Energy:                   0.4183240811 H           11.3832 eV
+Total MD Energy:                  -116.3840418366 H        -3166.9709 eV
+MD Temperature:                      0.0009204050 au         290.6406 K
+MD step: 38000
+Lattice vectors (A)
+          0.17143314E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17143314E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17143314E+02
+Volume:                              0.340002E+05 au^3   0.503830E+04 A^3
+Pressure:                           -0.542946E-05 au    -0.159740E+09 Pa
+Potential Energy:                 -116.8458109807 H        -3179.5363 eV
+MD Kinetic Energy:                   0.4365530103 H           11.8792 eV
+Total MD Energy:                  -116.4092579704 H        -3167.6571 eV
+MD Temperature:                      0.0009605127 au         303.3056 K
+MD step: 41500
+Lattice vectors (A)
+          0.17143536E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17143536E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17143536E+02
+Volume:                              0.340015E+05 au^3   0.503850E+04 A^3
+Pressure:                           -0.364749E-05 au    -0.107313E+09 Pa
+Potential Energy:                 -116.8288199574 H        -3179.0739 eV
+MD Kinetic Energy:                   0.4418384311 H           12.0230 eV
+Total MD Energy:                  -116.3869815263 H        -3167.0509 eV
+MD Temperature:                      0.0009721418 au         306.9777 K
+MD step: 43600
+Lattice vectors (A)
+          0.17143489E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17143489E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17143489E+02
+Volume:                              0.340012E+05 au^3   0.503846E+04 A^3
+Pressure:                           -0.549001E-05 au    -0.161522E+09 Pa
+Potential Energy:                 -116.8601589090 H        -3179.9267 eV
+MD Kinetic Energy:                   0.4373685246 H           11.9014 eV
+Total MD Energy:                  -116.4227903844 H        -3168.0253 eV
+MD Temperature:                      0.0009623070 au         303.8721 K
+MD step: 53000
+Lattice vectors (A)
+          0.17143053E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17143053E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17143053E+02
+Volume:                              0.339986E+05 au^3   0.503807E+04 A^3
+Pressure:                           -0.134376E-05 au    -0.395347E+08 Pa
+Potential Energy:                 -116.8066103010 H        -3178.4696 eV
+MD Kinetic Energy:                   0.4336433325 H           11.8000 eV
+Total MD Energy:                  -116.3729669685 H        -3166.6695 eV
+MD Temperature:                      0.0009541107 au         301.2840 K
+MD step: 55700
+Lattice vectors (A)
+          0.17142923E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17142923E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17142923E+02
+Volume:                              0.339978E+05 au^3   0.503796E+04 A^3
+Pressure:                           -0.228920E-05 au    -0.673506E+08 Pa
+Potential Energy:                 -116.8353051697 H        -3179.2504 eV
+MD Kinetic Energy:                   0.4258679328 H           11.5885 eV
+Total MD Energy:                  -116.4094372369 H        -3167.6620 eV
+MD Temperature:                      0.0009370032 au         295.8818 K
+MD step: 500
+Lattice vectors (A)
+          0.17141541E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17141541E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17141541E+02
+Volume:                              0.339896E+05 au^3   0.503674E+04 A^3
+Pressure:                           -0.275987E-05 au    -0.811980E+08 Pa
+Potential Energy:                 -116.8097159264 H        -3178.5541 eV
+MD Kinetic Energy:                   0.4379030602 H           11.9159 eV
+Total MD Energy:                  -116.3718128663 H        -3166.6381 eV
+MD Temperature:                      0.0009634831 au         304.2435 K
+MD step: 800
+Lattice vectors (A)
+          0.17141409E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17141409E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17141409E+02
+Volume:                              0.339888E+05 au^3   0.503662E+04 A^3
+Pressure:                           -0.376634E-05 au    -0.110810E+09 Pa
+Potential Energy:                 -116.8377309779 H        -3179.3164 eV
+MD Kinetic Energy:                   0.4423079556 H           12.0358 eV
+Total MD Energy:                  -116.3954230223 H        -3167.2806 eV
+MD Temperature:                      0.0009731748 au         307.3039 K
+MD step: 9000
+Lattice vectors (A)
+          0.17139823E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17139823E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17139823E+02
+Volume:                              0.339794E+05 au^3   0.503523E+04 A^3
+Pressure:                           -0.653829E-05 au    -0.192363E+09 Pa
+Potential Energy:                 -116.8185788372 H        -3178.7953 eV
+MD Kinetic Energy:                   0.4286835898 H           11.6651 eV
+Total MD Energy:                  -116.3898952474 H        -3167.1302 eV
+MD Temperature:                      0.0009431982 au         297.8381 K
+MD step: 14300
+Lattice vectors (A)
+          0.17139156E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17139156E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17139156E+02
+Volume:                              0.339754E+05 au^3   0.503464E+04 A^3
+Pressure:                           -0.259908E-05 au    -0.764674E+08 Pa
+Potential Energy:                 -116.8154213795 H        -3178.7093 eV
+MD Kinetic Energy:                   0.4284348410 H           11.6583 eV
+Total MD Energy:                  -116.3869865385 H        -3167.0510 eV
+MD Temperature:                      0.0009426509 au         297.6653 K
+MD step: 15300
+Lattice vectors (A)
+          0.17138913E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17138913E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17138913E+02
+Volume:                              0.339740E+05 au^3   0.503442E+04 A^3
+Pressure:                           -0.276757E-05 au    -0.814247E+08 Pa
+Potential Energy:                 -116.8265450176 H        -3179.0120 eV
+MD Kinetic Energy:                   0.4443676856 H           12.0919 eV
+Total MD Energy:                  -116.3821773320 H        -3166.9202 eV
+MD Temperature:                      0.0009777067 au         308.7350 K
+MD step: 20000
+Lattice vectors (A)
+          0.17138315E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17138315E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17138315E+02
+Volume:                              0.339704E+05 au^3   0.503390E+04 A^3
+Pressure:                           -0.679317E-05 au    -0.199862E+09 Pa
+Potential Energy:                 -116.7991586270 H        -3178.2668 eV
+MD Kinetic Energy:                   0.4251666184 H           11.5694 eV
+Total MD Energy:                  -116.3739920086 H        -3166.6974 eV
+MD Temperature:                      0.0009354601 au         295.3946 K
+MD step: 23600
+Lattice vectors (A)
+          0.17138041E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17138041E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17138041E+02
+Volume:                              0.339688E+05 au^3   0.503366E+04 A^3
+Pressure:                            0.235070E-05 au     0.691599E+08 Pa
+Potential Energy:                 -116.7955084439 H        -3178.1675 eV
+MD Kinetic Energy:                   0.4305098613 H           11.7148 eV
+Total MD Energy:                  -116.3649985826 H        -3166.4527 eV
+MD Temperature:                      0.0009472164 au         299.1069 K
+MD step: 25800
+Lattice vectors (A)
+          0.17137830E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17137830E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17137830E+02
+Volume:                              0.339675E+05 au^3   0.503347E+04 A^3
+Pressure:                            0.207200E-06 au     0.609603E+07 Pa
+Potential Energy:                 -116.8079465034 H        -3178.5059 eV
+MD Kinetic Energy:                   0.4292490809 H           11.6805 eV
+Total MD Energy:                  -116.3786974225 H        -3166.8255 eV
+MD Temperature:                      0.0009444424 au         298.2310 K
+MD step: 26600
+Lattice vectors (A)
+          0.17137672E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17137672E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17137672E+02
+Volume:                              0.339666E+05 au^3   0.503333E+04 A^3
+Pressure:                           -0.369680E-05 au    -0.108764E+09 Pa
+Potential Energy:                 -116.8346295272 H        -3179.2320 eV
+MD Kinetic Energy:                   0.4318966823 H           11.7525 eV
+Total MD Energy:                  -116.4027328449 H        -3167.4795 eV
+MD Temperature:                      0.0009502677 au         300.0705 K
+MD step: 26900
+Lattice vectors (A)
+          0.17137643E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17137643E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17137643E+02
+Volume:                              0.339664E+05 au^3   0.503331E+04 A^3
+Pressure:                           -0.418482E-05 au    -0.123122E+09 Pa
+Potential Energy:                 -116.8261693105 H        -3179.0018 eV
+MD Kinetic Energy:                   0.4183201864 H           11.3831 eV
+Total MD Energy:                  -116.4078491241 H        -3167.6187 eV
+MD Temperature:                      0.0009203964 au         290.6379 K
+MD step: 31300
+Lattice vectors (A)
+          0.17137173E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17137173E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17137173E+02
+Volume:                              0.339636E+05 au^3   0.503289E+04 A^3
+Pressure:                           -0.564275E-06 au    -0.166015E+08 Pa
+Potential Energy:                 -116.8054044553 H        -3178.4368 eV
+MD Kinetic Energy:                   0.4302590995 H           11.7079 eV
+Total MD Energy:                  -116.3751453558 H        -3166.7288 eV
+MD Temperature:                      0.0009466647 au         298.9327 K
+MD step: 35100
+Lattice vectors (A)
+          0.17136183E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17136183E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17136183E+02
+Volume:                              0.339577E+05 au^3   0.503202E+04 A^3
+Pressure:                           -0.113771E-05 au    -0.334725E+08 Pa
+Potential Energy:                 -116.8425893065 H        -3179.4486 eV
+MD Kinetic Energy:                   0.4284126171 H           11.6577 eV
+Total MD Energy:                  -116.4141766894 H        -3167.7909 eV
+MD Temperature:                      0.0009426020 au         297.6498 K
+MD step: 40000
+Lattice vectors (A)
+          0.17135849E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17135849E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17135849E+02
+Volume:                              0.339558E+05 au^3   0.503172E+04 A^3
+Pressure:                           -0.288879E-05 au    -0.849912E+08 Pa
+Potential Energy:                 -116.8210219065 H        -3178.8617 eV
+MD Kinetic Energy:                   0.4286972012 H           11.6654 eV
+Total MD Energy:                  -116.3923247053 H        -3167.1963 eV
+MD Temperature:                      0.0009432282 au         297.8475 K
+MD step: 42900
+Lattice vectors (A)
+          0.17135386E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17135386E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17135386E+02
+Volume:                              0.339530E+05 au^3   0.503132E+04 A^3
+Pressure:                           -0.673418E-05 au    -0.198126E+09 Pa
+Potential Energy:                 -116.8213464172 H        -3178.8706 eV
+MD Kinetic Energy:                   0.4359416328 H           11.8626 eV
+Total MD Energy:                  -116.3854047843 H        -3167.0080 eV
+MD Temperature:                      0.0009591675 au         302.8808 K
+MD step: 46900
+Lattice vectors (A)
+          0.17134537E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134537E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134537E+02
+Volume:                              0.339480E+05 au^3   0.503057E+04 A^3
+Pressure:                           -0.142181E-05 au    -0.418311E+08 Pa
+Potential Energy:                 -116.8200174114 H        -3178.8344 eV
+MD Kinetic Energy:                   0.4295525128 H           11.6887 eV
+Total MD Energy:                  -116.3904648986 H        -3167.1457 eV
+MD Temperature:                      0.0009451100 au         298.4418 K
+MD step: 5200
+Lattice vectors (A)
+          0.17134136E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134136E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134136E+02
+Volume:                              0.339456E+05 au^3   0.503022E+04 A^3
+Pressure:                            0.195788E-05 au     0.576028E+08 Pa
+Potential Energy:                 -116.7960377399 H        -3178.1819 eV
+MD Kinetic Energy:                   0.4130143902 H           11.2387 eV
+Total MD Energy:                  -116.3830233497 H        -3166.9432 eV
+MD Temperature:                      0.0009087225 au         286.9515 K
+MD step: 7400
+Lattice vectors (A)
+          0.17134096E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134096E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134096E+02
+Volume:                              0.339453E+05 au^3   0.503018E+04 A^3
+Pressure:                           -0.325329E-05 au    -0.957150E+08 Pa
+Potential Energy:                 -116.8178844386 H        -3178.7764 eV
+MD Kinetic Energy:                   0.4206978827 H           11.4478 eV
+Total MD Energy:                  -116.3971865559 H        -3167.3286 eV
+MD Temperature:                      0.0009256279 au         292.2898 K
+MD step: 11400
+Lattice vectors (A)
+          0.17133721E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17133721E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17133721E+02
+Volume:                              0.339431E+05 au^3   0.502985E+04 A^3
+Pressure:                            0.289003E-05 au     0.850276E+08 Pa
+Potential Energy:                 -116.8363075394 H        -3179.2777 eV
+MD Kinetic Energy:                   0.4312856632 H           11.7359 eV
+Total MD Energy:                  -116.4050218763 H        -3167.5418 eV
+MD Temperature:                      0.0009489234 au         299.6459 K
+MD step: 14300
+Lattice vectors (A)
+          0.17133634E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17133634E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17133634E+02
+Volume:                              0.339426E+05 au^3   0.502977E+04 A^3
+Pressure:                           -0.386214E-05 au    -0.113628E+09 Pa
+Potential Energy:                 -116.8319565154 H        -3179.1593 eV
+MD Kinetic Energy:                   0.4409049892 H           11.9976 eV
+Total MD Energy:                  -116.3910515262 H        -3167.1617 eV
+MD Temperature:                      0.0009700880 au         306.3292 K
+MD step: 16300
+Lattice vectors (A)
+          0.17133611E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17133611E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17133611E+02
+Volume:                              0.339425E+05 au^3   0.502975E+04 A^3
+Pressure:                            0.362989E-05 au     0.106795E+09 Pa
+Potential Energy:                 -116.7987896825 H        -3178.2568 eV
+MD Kinetic Energy:                   0.4335816895 H           11.7984 eV
+Total MD Energy:                  -116.3652079931 H        -3166.4584 eV
+MD Temperature:                      0.0009539751 au         301.2412 K
+MD step: 19800
+Lattice vectors (A)
+          0.17133876E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17133876E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17133876E+02
+Volume:                              0.339440E+05 au^3   0.502999E+04 A^3
+Pressure:                            0.401356E-05 au     0.118083E+09 Pa
+Potential Energy:                 -116.8325145555 H        -3179.1745 eV
+MD Kinetic Energy:                   0.4368826659 H           11.8882 eV
+Total MD Energy:                  -116.3956318896 H        -3167.2863 eV
+MD Temperature:                      0.0009612380 au         303.5346 K
+MD step: 24700
+Lattice vectors (A)
+          0.17133773E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17133773E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17133773E+02
+Volume:                              0.339434E+05 au^3   0.502990E+04 A^3
+Pressure:                           -0.271057E-05 au    -0.797477E+08 Pa
+Potential Energy:                 -116.8345256979 H        -3179.2292 eV
+MD Kinetic Energy:                   0.4334057078 H           11.7936 eV
+Total MD Energy:                  -116.4011199901 H        -3167.4356 eV
+MD Temperature:                      0.0009535879 au         301.1189 K
+MD step: 24800
+Lattice vectors (A)
+          0.17133781E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17133781E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17133781E+02
+Volume:                              0.339435E+05 au^3   0.502990E+04 A^3
+Pressure:                            0.173852E-05 au     0.511491E+08 Pa
+Potential Energy:                 -116.8082736752 H        -3178.5148 eV
+MD Kinetic Energy:                   0.4180342778 H           11.3753 eV
+Total MD Energy:                  -116.3902393974 H        -3167.1396 eV
+MD Temperature:                      0.0009197674 au         290.4392 K
+MD step: 26400
+Lattice vectors (A)
+          0.17133862E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17133862E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17133862E+02
+Volume:                              0.339439E+05 au^3   0.502997E+04 A^3
+Pressure:                            0.364443E-05 au     0.107223E+09 Pa
+Potential Energy:                 -116.8029899895 H        -3178.3711 eV
+MD Kinetic Energy:                   0.4331447194 H           11.7865 eV
+Total MD Energy:                  -116.3698452701 H        -3166.5846 eV
+MD Temperature:                      0.0009530137 au         300.9376 K
+MD step: 27900
+Lattice vectors (A)
+          0.17134074E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134074E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134074E+02
+Volume:                              0.339452E+05 au^3   0.503016E+04 A^3
+Pressure:                           -0.329997E-05 au    -0.970884E+08 Pa
+Potential Energy:                 -116.8253505855 H        -3178.9795 eV
+MD Kinetic Energy:                   0.4133441765 H           11.2477 eV
+Total MD Energy:                  -116.4120064090 H        -3167.7319 eV
+MD Temperature:                      0.0009094481 au         287.1807 K
+MD step: 28200
+Lattice vectors (A)
+          0.17134070E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134070E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134070E+02
+Volume:                              0.339452E+05 au^3   0.503016E+04 A^3
+Pressure:                           -0.880711E-06 au    -0.259114E+08 Pa
+Potential Energy:                 -116.8501909677 H        -3179.6555 eV
+MD Kinetic Energy:                   0.4325527597 H           11.7704 eV
+Total MD Energy:                  -116.4176382080 H        -3167.8851 eV
+MD Temperature:                      0.0009517112 au         300.5263 K
+MD step: 30300
+Lattice vectors (A)
+          0.17134150E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134150E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134150E+02
+Volume:                              0.339457E+05 au^3   0.503023E+04 A^3
+Pressure:                            0.377181E-05 au     0.110971E+09 Pa
+Potential Energy:                 -116.8276814325 H        -3179.0430 eV
+MD Kinetic Energy:                   0.4421519763 H           12.0316 eV
+Total MD Energy:                  -116.3855294563 H        -3167.0114 eV
+MD Temperature:                      0.0009728316 au         307.1956 K
+MD step: 31500
+Lattice vectors (A)
+          0.17134111E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134111E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134111E+02
+Volume:                              0.339454E+05 au^3   0.503019E+04 A^3
+Pressure:                           -0.355979E-06 au    -0.104732E+08 Pa
+Potential Energy:                 -116.8253539895 H        -3178.9796 eV
+MD Kinetic Energy:                   0.4401047522 H           11.9759 eV
+Total MD Energy:                  -116.3852492372 H        -3167.0038 eV
+MD Temperature:                      0.0009683273 au         305.7732 K
+MD step: 33100
+Lattice vectors (A)
+          0.17133936E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17133936E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17133936E+02
+Volume:                              0.339444E+05 au^3   0.503004E+04 A^3
+Pressure:                            0.637132E-05 au     0.187451E+09 Pa
+Potential Energy:                 -116.8504356461 H        -3179.6621 eV
+MD Kinetic Energy:                   0.4304706779 H           11.7137 eV
+Total MD Energy:                  -116.4199649682 H        -3167.9484 eV
+MD Temperature:                      0.0009471302 au         299.0797 K
+MD step: 40000
+Lattice vectors (A)
+          0.17134475E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134475E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134475E+02
+Volume:                              0.339476E+05 au^3   0.503051E+04 A^3
+Pressure:                            0.669518E-05 au     0.196979E+09 Pa
+Potential Energy:                 -116.8436419954 H        -3179.4773 eV
+MD Kinetic Energy:                   0.4282793922 H           11.6541 eV
+Total MD Energy:                  -116.4153626033 H        -3167.8232 eV
+MD Temperature:                      0.0009423089 au         297.5573 K
+MD step: 42600
+Lattice vectors (A)
+          0.17134570E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134570E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134570E+02
+Volume:                              0.339482E+05 au^3   0.503060E+04 A^3
+Pressure:                           -0.371462E-05 au    -0.109288E+09 Pa
+Potential Energy:                 -116.8482644997 H        -3179.6031 eV
+MD Kinetic Energy:                   0.4277133044 H           11.6387 eV
+Total MD Energy:                  -116.4205511953 H        -3167.9644 eV
+MD Temperature:                      0.0009410634 au         297.1640 K
+MD step: 43000
+Lattice vectors (A)
+          0.17134586E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17134586E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17134586E+02
+Volume:                              0.339482E+05 au^3   0.503061E+04 A^3
+Pressure:                           -0.877299E-05 au    -0.258110E+09 Pa
+Potential Energy:                 -116.8421693652 H        -3179.4372 eV
+MD Kinetic Energy:                   0.4388546828 H           11.9418 eV
+Total MD Energy:                  -116.4033146824 H        -3167.4954 eV
+MD Temperature:                      0.0009655769 au         304.9047 K
+MD step: 700
+Lattice vectors (A)
+          0.17132739E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17132739E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17132739E+02
+Volume:                              0.339373E+05 au^3   0.502899E+04 A^3
+Pressure:                           -0.572811E-05 au    -0.168527E+09 Pa
+Potential Energy:                 -116.8261580547 H        -3179.0015 eV
+MD Kinetic Energy:                   0.4309394107 H           11.7265 eV
+Total MD Energy:                  -116.3952186440 H        -3167.2750 eV
+MD Temperature:                      0.0009481615 au         299.4054 K
+MD step: 3800
+Lattice vectors (A)
+          0.17132274E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17132274E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17132274E+02
+Volume:                              0.339345E+05 au^3   0.502858E+04 A^3
+Pressure:                           -0.684468E-05 au    -0.201377E+09 Pa
+Potential Energy:                 -116.8569424808 H        -3179.8392 eV
+MD Kinetic Energy:                   0.4350332690 H           11.8379 eV
+Total MD Energy:                  -116.4219092118 H        -3168.0013 eV
+MD Temperature:                      0.0009571689 au         302.2497 K
+MD step: 10500
+Lattice vectors (A)
+          0.17131515E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17131515E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17131515E+02
+Volume:                              0.339300E+05 au^3   0.502791E+04 A^3
+Pressure:                           -0.874207E-06 au    -0.257201E+08 Pa
+Potential Energy:                 -116.8236756868 H        -3178.9340 eV
+MD Kinetic Energy:                   0.4388626971 H           11.9421 eV
+Total MD Energy:                  -116.3848129898 H        -3166.9919 eV
+MD Temperature:                      0.0009655945 au         304.9103 K
+MD step: 11000
+Lattice vectors (A)
+          0.17131459E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17131459E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17131459E+02
+Volume:                              0.339297E+05 au^3   0.502786E+04 A^3
+Pressure:                            0.316407E-05 au     0.930901E+08 Pa
+Potential Energy:                 -116.8065456263 H        -3178.4678 eV
+MD Kinetic Energy:                   0.4327738590 H           11.7764 eV
+Total MD Energy:                  -116.3737717673 H        -3166.6914 eV
+MD Temperature:                      0.0009521977 au         300.6799 K
+MD step: 19400
+Lattice vectors (A)
+          0.17130708E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17130708E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17130708E+02
+Volume:                              0.339252E+05 au^3   0.502720E+04 A^3
+Pressure:                           -0.929247E-05 au    -0.273394E+09 Pa
+Potential Energy:                 -116.8267817318 H        -3179.0185 eV
+MD Kinetic Energy:                   0.4256980845 H           11.5838 eV
+Total MD Energy:                  -116.4010836473 H        -3167.4346 eV
+MD Temperature:                      0.0009366294 au         295.7638 K
+MD step: 25200
+Lattice vectors (A)
+          0.17130449E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17130449E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17130449E+02
+Volume:                              0.339237E+05 au^3   0.502697E+04 A^3
+Pressure:                           -0.384467E-06 au    -0.113114E+08 Pa
+Potential Energy:                 -116.8453707222 H        -3179.5243 eV
+MD Kinetic Energy:                   0.4334645947 H           11.7952 eV
+Total MD Energy:                  -116.4119061276 H        -3167.7291 eV
+MD Temperature:                      0.0009537175 au         301.1598 K
+MD step: 25400
+Lattice vectors (A)
+          0.17130465E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17130465E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17130465E+02
+Volume:                              0.339238E+05 au^3   0.502698E+04 A^3
+Pressure:                           -0.629824E-06 au    -0.185301E+08 Pa
+Potential Energy:                 -116.8731511169 H        -3180.2803 eV
+MD Kinetic Energy:                   0.4530653062 H           12.3285 eV
+Total MD Energy:                  -116.4200858107 H        -3167.9517 eV
+MD Temperature:                      0.0009968434 au         314.7779 K
+MD step: 28700
+Lattice vectors (A)
+          0.17130136E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17130136E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17130136E+02
+Volume:                              0.339218E+05 au^3   0.502669E+04 A^3
+Pressure:                            0.104673E-06 au     0.307959E+07 Pa
+Potential Energy:                 -116.8599681276 H        -3179.9215 eV
+MD Kinetic Energy:                   0.4346202673 H           11.8266 eV
+Total MD Energy:                  -116.4253478603 H        -3168.0949 eV
+MD Temperature:                      0.0009562602 au         301.9627 K
+MD step: 28700
+Lattice vectors (A)
+          0.17130136E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17130136E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17130136E+02
+Volume:                              0.339218E+05 au^3   0.502669E+04 A^3
+Pressure:                            0.104673E-06 au     0.307959E+07 Pa
+Potential Energy:                 -116.8599681276 H        -3179.9215 eV
+MD Kinetic Energy:                   0.4346202673 H           11.8266 eV
+Total MD Energy:                  -116.4253478603 H        -3168.0949 eV
+MD Temperature:                      0.0009562602 au         301.9627 K
+MD step: 30600
+Lattice vectors (A)
+          0.17129745E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17129745E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17129745E+02
+Volume:                              0.339195E+05 au^3   0.502635E+04 A^3
+Pressure:                           -0.554938E-05 au    -0.163268E+09 Pa
+Potential Energy:                 -116.8132049626 H        -3178.6490 eV
+MD Kinetic Energy:                   0.4239320168 H           11.5358 eV
+Total MD Energy:                  -116.3892729458 H        -3167.1133 eV
+MD Temperature:                      0.0009327437 au         294.5368 K
+MD step: 33600
+Lattice vectors (A)
+          0.17129378E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17129378E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17129378E+02
+Volume:                              0.339173E+05 au^3   0.502603E+04 A^3
+Pressure:                           -0.673122E-05 au    -0.198039E+09 Pa
+Potential Energy:                 -116.8348251278 H        -3179.2373 eV
+MD Kinetic Energy:                   0.4488404477 H           12.2136 eV
+Total MD Energy:                  -116.3859846801 H        -3167.0238 eV
+MD Temperature:                      0.0009875477 au         311.8425 K
+MD step: 35700
+Lattice vectors (A)
+          0.17129189E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17129189E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17129189E+02
+Volume:                              0.339162E+05 au^3   0.502586E+04 A^3
+Pressure:                           -0.178072E-05 au    -0.523905E+08 Pa
+Potential Energy:                 -116.8372544370 H        -3179.3035 eV
+MD Kinetic Energy:                   0.4386286457 H           11.9357 eV
+Total MD Energy:                  -116.3986257913 H        -3167.3678 eV
+MD Temperature:                      0.0009650795 au         304.7476 K
+MD step: 36100
+Lattice vectors (A)
+          0.17129140E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17129140E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17129140E+02
+Volume:                              0.339159E+05 au^3   0.502582E+04 A^3
+Pressure:                           -0.622772E-05 au    -0.183226E+09 Pa
+Potential Energy:                 -116.8633832159 H        -3180.0145 eV
+MD Kinetic Energy:                   0.4487669121 H           12.2116 eV
+Total MD Energy:                  -116.4146163038 H        -3167.8029 eV
+MD Temperature:                      0.0009873859 au         311.7914 K
+MD step: 40200
+Lattice vectors (A)
+          0.17128494E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17128494E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17128494E+02
+Volume:                              0.339120E+05 au^3   0.502525E+04 A^3
+Pressure:                           -0.688228E-05 au    -0.202484E+09 Pa
+Potential Energy:                 -116.8623641469 H        -3179.9867 eV
+MD Kinetic Energy:                   0.4438103948 H           12.0767 eV
+Total MD Energy:                  -116.4185537521 H        -3167.9100 eV
+MD Temperature:                      0.0009764805 au         308.3478 K
+MD step: 42000
+Lattice vectors (A)
+          0.17128364E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17128364E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17128364E+02
+Volume:                              0.339113E+05 au^3   0.502513E+04 A^3
+Pressure:                            0.850473E-06 au     0.250218E+08 Pa
+Potential Energy:                 -116.8654887645 H        -3180.0717 eV
+MD Kinetic Energy:                   0.4462774913 H           12.1438 eV
+Total MD Energy:                  -116.4192112733 H        -3167.9279 eV
+MD Temperature:                      0.0009819087 au         310.0619 K
+MD step: 43300
+Lattice vectors (A)
+          0.17127947E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17127947E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17127947E+02
+Volume:                              0.339088E+05 au^3   0.502477E+04 A^3
+Pressure:                           -0.959425E-05 au    -0.282272E+09 Pa
+Potential Energy:                 -116.8675312991 H        -3180.1273 eV
+MD Kinetic Energy:                   0.4459568954 H           12.1351 eV
+Total MD Energy:                  -116.4215744038 H        -3167.9922 eV
+MD Temperature:                      0.0009812033 au         309.8391 K
+MD step: 44400
+Lattice vectors (A)
+          0.17127777E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17127777E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17127777E+02
+Volume:                              0.339078E+05 au^3   0.502462E+04 A^3
+Pressure:                           -0.649372E-05 au    -0.191052E+09 Pa
+Potential Energy:                 -116.8491177773 H        -3179.6263 eV
+MD Kinetic Energy:                   0.4294093958 H           11.6848 eV
+Total MD Energy:                  -116.4197083815 H        -3167.9414 eV
+MD Temperature:                      0.0009447952 au         298.3424 K
+MD step: 51900
+Lattice vectors (A)
+          0.17128091E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17128091E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17128091E+02
+Volume:                              0.339097E+05 au^3   0.502489E+04 A^3
+Pressure:                            0.721768E-05 au     0.212352E+09 Pa
+Potential Energy:                 -116.8218380125 H        -3178.8840 eV
+MD Kinetic Energy:                   0.4148474747 H           11.2886 eV
+Total MD Energy:                  -116.4069905378 H        -3167.5954 eV
+MD Temperature:                      0.0009127557 au         288.2251 K
+MD step: 52800
+Lattice vectors (A)
+          0.17128220E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17128220E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17128220E+02
+Volume:                              0.339104E+05 au^3   0.502501E+04 A^3
+Pressure:                           -0.201201E-06 au    -0.591954E+07 Pa
+Potential Energy:                 -116.8571507082 H        -3179.8449 eV
+MD Kinetic Energy:                   0.4271781405 H           11.6241 eV
+Total MD Energy:                  -116.4299725677 H        -3168.2208 eV
+MD Temperature:                      0.0009398859 au         296.7921 K
+MD step: 53200
+Lattice vectors (A)
+          0.17128134E+02          0.00000000E+00          0.00000000E+00
+          0.00000000E+00          0.17128134E+02          0.00000000E+00
+          0.00000000E+00          0.00000000E+00          0.17128134E+02
+Volume:                              0.339099E+05 au^3   0.502493E+04 A^3
+Pressure:                            0.184888E-05 au     0.543958E+08 Pa
+Potential Energy:                 -116.8477336884 H        -3179.5886 eV
+MD Kinetic Energy:                   0.4422058668 H           12.0330 eV
+Total MD Energy:                  -116.4055278216 H        -3167.5556 eV
+MD Temperature:                      0.0009729502 au         307.2330 K
