@@ -9,7 +9,7 @@ This is a data repository to support the main work
 > Fernandez, F., Otero, M., Oviedo, M. B., Barraco, D. E., Paz, S. A., Leiva, E. P. M. (2023).
 > NMR, x-ray and Mössbauer results for amorphous Li-Si alloys using density functional
 > tight-binding method. _Physical Review B, 108_, 144201.
-> DOI: [https://doi.org/10.1103/PhysRevB.108.144201].
+> DOI: https://doi.org/10.1103/PhysRevB.108.144201
 
 
 # Content
@@ -41,4 +41,4 @@ required references are specified in this file and must be included in resulting
 > Fernandez, F., Otero, M., Oviedo, M. B., Barraco, D. E., Paz, S. A., Leiva, E. P. M. (2023).
 > NMR, x-ray and Mössbauer results for amorphous Li-Si alloys using density functional
 > tight-binding method. _Physical Review B, 108_, 144201.
-> DOI: [https://doi.org/10.1103/PhysRevB.108.144201].
+> DOI: https://doi.org/10.1103/PhysRevB.108.144201
