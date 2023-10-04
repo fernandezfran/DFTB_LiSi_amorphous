@@ -1,22 +1,21 @@
-# Prediction of NMR, X-ray and Mössbauer experimental results for amorphous Li-Si alloys using a novel DFTB model
+# NMR, x-ray and Mössbauer results for amorphous Li-Si alloys using density functional tight-binding method
+
+[![DOI](https://zenodo.org/badge/681853337.svg)](https://zenodo.org/badge/latestdoi/681853337)
+[![PRB](https://img.shields.io/badge/PhysRevB-108.144201-b31033)](https://doi.org/10.1103/PhysRevB.108.144201)
+[![arXiv](https://img.shields.io/badge/arXiv-2305.11006-b31b1b)](https://arxiv.org/abs/2305.11006)
 
 This is a data repository to support the main work 
 
-> "Prediction of NMR, X-ray and Mössbauer experimental results for amorphous 
-> Li-Si alloys using a novel DFTB model" F. Fernandez, M. Otero, Ma. B. Oviedo, 
-> D. E. Barraco, S. A. Paz, E. P. M. Lieva.
-> XXXX 2023, XXX (X) XXXX-XXXX. DOI: [XXXX/xxxxxxxxxxx](https://doi.org/).
-
-A preprint of this work can be found at 
-[arXiv:2305.11006](https://arxiv.org/abs/2305.11006).
-
-Cite the dataset: [![DOI](https://zenodo.org/badge/681853337.svg)](https://zenodo.org/badge/latestdoi/681853337)
+> Fernandez, F., Otero, M., Oviedo, M. B., Barraco, D. E., Paz, S. A., Leiva, E. P. M. (2023).
+> NMR, x-ray and Mössbauer results for amorphous Li-Si alloys using density functional
+> tight-binding method. _Physical Review B, 108_, 144201.
+> DOI: [https://doi.org/10.1103/PhysRevB.108.144201].
 
 
 # Content
 
 The `structures` folder contains the structures of the amorphous LiSi system.
-These where obtaines using [DFTB+](https://dftbplus.org/) and our previous 
+These where obtained using [DFTB+](https://dftbplus.org/) and our previous 
 [parameters](https://github.com/alexispaz/DFTB_LiSi) for this system. In 
 `LiNSiM.xyz`, where `N` and `M` are the number of Li and Si atoms, respectively,
 there is a frame in [xyz format](https://en.wikipedia.org/wiki/XYZ_file_format) 
@@ -39,7 +38,7 @@ required references are specified in this file and must be included in resulting
 
 # Required references
 
-> "Prediction of NMR, X-ray and Mössbauer experimental results for amorphous 
-> Li-Si alloys using a novel DFTB model" F. Fernandez, M. Otero, Ma. B. Oviedo, 
-> D. E. Barraco, S. A. Paz, E. P. M. Lieva.
-> XXXX 2023, XXX (X) XXXX-XXXX. DOI: [XXXX/xxxxxxxxxxx](https://doi.org/).
+> Fernandez, F., Otero, M., Oviedo, M. B., Barraco, D. E., Paz, S. A., Leiva, E. P. M. (2023).
+> NMR, x-ray and Mössbauer results for amorphous Li-Si alloys using density functional
+> tight-binding method. _Physical Review B, 108_, 144201.
+> DOI: [https://doi.org/10.1103/PhysRevB.108.144201].
