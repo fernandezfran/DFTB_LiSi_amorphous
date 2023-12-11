@@ -11,6 +11,11 @@ This is a data repository to support the main work
 > tight-binding method. _Physical Review B, 108_, 144201.
 > DOI: https://doi.org/10.1103/PhysRevB.108.144201
 
+The atomic configurations of the structures were obtained using the 
+[lithiation_protocol](https://github.com/fernandezfran/lithiation_protocol) code. In the main work, 
+these structures are analyzed with nearest neighbor models implemented in the 
+[macchiato](https://github.com/fernandezfran/macchiato) Python package.
+
 
 # Content
 
